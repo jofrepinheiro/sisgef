@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SISGEF
+namespace Sisgef.DAL
 {
     public class Class1
     {
